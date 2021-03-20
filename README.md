@@ -3,9 +3,9 @@
 
 ## Tentative Event Dates:
 
-- Conference: 16th and 17th Sep, 2021
-- Workshop: 18th Sep, 2021
-- DevSprint: 18th and 19th Sep, 2021
+- Workshop: 17th Sep, 2021
+- Conference: 18th and 19th Sep, 2021
+- DevSprint: 20th Sep, 2021
 
 ## Keywords
 
@@ -27,173 +27,142 @@
     - Kumar Anirudha
     - Ritesh Agarwal
 * Emeritus Chair: Sayan Chowdhury
-* Volunteers Manager:
+* Volunteers Manager: Shashank
+
+## Communication Platform
+
+* Zulip Chat: https://pyconindia.zulipchat.com/#narrow/stream/275447-2021.2Fdiscussion
 
 ### Guidelines
 
 * One person can volunteer in multiple working group, can lead only one working group.
 
-### CFP (Call For Proposals)/Keynotes
+### Program
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcfp)
 - Meeting:
 - Chair: Laisha
 - Shadow:
 - Members
+- Zulip Stream:
+- Subgroups:
+    - Call for proposals
+    - Keynotes
 
-### Content and Design
+### Content & Design
 
-- [Github Issues](https://github.com/pythonindia/inpycon-blog/issues/)
 - Meeting:
 - Chair: Vipul Gupta
-- Shadow:
-- Members
-    * Nikhil Mann
+- Shadow: Nikhil Mann
+- Members:
+- Zulip Stream:
+- Subgroups:
+    - Content
+    - Design
 
-### Dev Sprint/Workshops
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdevsprint)
+### Dev Sprints & Workshops
+
 - Meeting:
 - Chair:
 - Shadow:
 - Members
+- Zulip Stream:
 - Notes:
     * Dev Sprint would be tentatives.
 
 ### Mentorship/Editorial
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fmentorship)
 - Meeting:
 - Chair:
 - Shadow:
 - Members
+- Zulip Stream:
 
 ### Platform
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fplatform)
 - Meeting:
 - Chair:
 - Shadow:
 - Members
+- Zulip Stream:
 
-### Review
+### Review Panel
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Freview)
 - Meeting:
 - Chair:
 - Shadow:
 - Members
+- Zulip Stream:
 
+### Sessions
 
-### BoFs
-
-- [Github Issues]()
 - Meeting:
-- Chair:
+- Chair: Pravin Patil
 - Shadow:
 - Members
+- Zulip Stream:
+- Subgroups:
+    - Sessions
+    - BoF
 
-### Outreach and Communication (social media, community partners)
+### Communication
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fsocial-media)
 - Meeting:
 - Chair: Abhishek
 - Shadow:
 - Members
+- Zulip Stream:
 
-### Technology / Websites
+### Technology
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Ftechnology)
 - Meeting:
 - Chair: Nabarun
-- Co-chair:
 - Shadow:
 - Members
+- Zulip Stream:
 
-### Finance/Tickets
-
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fbilling)
-- Meeting:
-- Chair: Sanchit
-- Shadow:
-- Members
-
-### Diversity
-
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fdiversity)
-- Meeting:
-- Chair: Sukanya
-- Shadow:
-- Members
-
-### Support
-
-- [Github Issues]()
-- Meeting:
-- Chair:
-- Shadow:
-- Members
 
 ### R&D (brainstorm new ideas like: poster presentation, digital swags)
 
-- [Github Issues]
 - Meeting:
 - Chair: Sayan Chowdhury
 - Shadow:
 - Members:
     * Saptak Sengupta
+- Zulip Stream:
 
-## Committees
+### Finance & Tickets
+
+- Meeting:
+- Chair: Sanchit
+- Shadow:
+- Members
+- Zulip Stream:
+
+### Diversity
+
+- Meeting:
+- Chair: Sukanya
+- Shadow:
+- Members
+- Zulip Stream:
+
+### Support
+
+- Meeting:
+- Chair: Amol Kahat
+- Shadow:
+- Members
+- Zulip Stream:
 
 ### Code of Conduct
 
-- [Github Issues](https://github.com/pythonindia/inpycon2021-tasks/issues?q=is%3Aopen+is%3Aissue+label%3Awg%2Fcode-of-conduct)
 - Meeting:
-- Chair:
+- Chair: Minal Patil
 - Shadow:
+- Zulip Stream:
 - Members
     - Chandan Kumar
-    - Laisha
     - Nabarun
+    - Pushplata Ranjan
     - Sayan
     - Sukanya
-
-## Timeline
-
-|Dates | Task|
-|MM-DD | ....|
------ | --------------------------------------------------------------------------
-|02-21 | Close the proposal email, saying thanks to the community with comments|
-|02-22 | Volunteer email goes out|
-|02-28 | First Logo design iteration|
-|03-01 | Initial Website Design (General website template)|
-|03-01 | CFP Server Setup|
-|03-02 | PyCon India Announcement Blog (PR review)|
-|03-02 | PyCon India CFP Blog|
-|03-03 | PyCon India COC team formation and Blog|
-|03-04 | Tweet post Draft|
-|03-04 | Mailing list Draft|
-|03-05 | PyCon India 2021 Announcements|
-|03-05 | Proposal for Keynote speaker Name suggestion via mailing list and twitter|
-|03-10 | Final logo iteration and Feedback|
-|03-10 | Reaching out to community partners|
-|03-12 | Start reaching out to previous year speakers|
-|03-15 | Final Keynote names sortlist|
-|03-15 | Start reaching out to Keynotes|
-|03-30 | Final Website Design Handover|
-|04-05 | Keynote announcement|
-|04-05 | Ticket Sales Open|
-|05-15 | CFP closure|
-|05-15 | CFP Review Start|
-|06-15 | CFP Review Close|
-|06-20 | Speaker mentoring Start|
-|06-30 | Schedule Finalize|
-|07-10 | PyCon India Virtual Swag Design Start|
-|07-30 | PyCon India Virtual Swag Design End|
-|08-20 | Speaker mentoring End|
-|09-10 | Regular Ticket Sales Close|
-
-
-## WG Meeting Time
-| **Workgroup** | **Meeting Timee** |**Meeting Link** |
-|---|---|---|
-|Weekly Standup (All WGs)      | | |
